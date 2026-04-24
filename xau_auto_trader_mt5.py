@@ -7,9 +7,9 @@ from datetime import datetime, date
 # =========================
 # CONFIG - ISI BAGIAN INI
 # =========================
-LOGIN = 123456789
-PASSWORD = "ISI_PASSWORD_MT5"
-SERVER = "ISI_SERVER_BROKER"
+LOGIN = 10009965823
+PASSWORD = "123456789"
+SERVER = "MetaQuotes-Demo"
 MT5_PATH = r"C:\Program Files\MetaTrader 5\terminal64.exe"
 
 SYMBOL = "XAUUSD"      # contoh: XAUUSD, XAUUSDm, GOLD
